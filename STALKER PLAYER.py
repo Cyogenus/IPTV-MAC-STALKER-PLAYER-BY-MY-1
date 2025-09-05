@@ -19,7 +19,7 @@ from datetime import datetime
 from Epg import EpgManager, format_epg_tooltip
 
 from stalker import StalkerPortal
-from PyQt6.QtCore import (
+from PyQt5.QtCore import (
     QSettings,
     Qt,
     QThread,
@@ -27,7 +27,7 @@ from PyQt6.QtCore import (
     QTimer,  # Changed from QPropertyAnimation
     QCoreApplication,
 )
-from PyQt6.QtWidgets import (
+from PyQt5.QtWidgets import (
     QMessageBox,
     QLabel,
     QMainWindow,
@@ -50,7 +50,7 @@ from PyQt6.QtWidgets import (
     QDialog,
     QStyle,
 )
-from PyQt6.QtGui import QStandardItemModel, QStandardItem, QIcon
+from PyQt5.QtGui import QStandardItemModel, QStandardItem, QIcon
 from urllib.parse import quote, urlparse, urlunparse
 
 # Remove existing handlers
@@ -1091,7 +1091,7 @@ class MainWindow(QMainWindow):
 
     def apply_dark_theme(self):
         # Load and customize qdarkstyle's stylesheet
-        qss = qdarkstyle.load_stylesheet(qt_api='pyqt6')
+        qss = qdarkstyle.load_stylesheet(qt_api='pyqt5')
         qss = (
             qss
             .replace('#232629', '#1b2332')      # Main background to dark blue-gray
@@ -2934,4 +2934,3 @@ if __name__ == "__main__":
     window = MainWindow()
     window.show()
     sys.exit(app.exec_())
-
