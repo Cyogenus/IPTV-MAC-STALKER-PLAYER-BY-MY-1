@@ -2,6 +2,9 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER/latest/total?color=purple&label=Latest%20Release%20Downloads&logo=github)
 # MAC-Portal IPTV Player by MY-1 for Windows
 
+https://ko-fi.com/maiwand
+
+
 ## Overview
 The most advanced and polished open-source Python **MAC & Stalker IPTV player** on GitHub.
 
@@ -44,4 +47,5 @@ pip install -r requirements.txt
 
 
 
-![image](https://github.com/user-attachments/assets/a0b788b3-614c-49bd-9fab-583379aed0d8)
+<img width="652" height="492" alt="image" src="https://github.com/user-attachments/assets/22dbe186-0864-415d-a1eb-32226894b7e4" />
+
