@@ -2,7 +2,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER/latest/total?color=purple&label=Latest%20Release%20Downloads&logo=github)
 # MAC-Portal IPTV Player by MY-1 for Windows
 
-https://ko-fi.com/maiwand
+Donations Appreciated: https://ko-fi.com/maiwand
 
 
 ## Overview
