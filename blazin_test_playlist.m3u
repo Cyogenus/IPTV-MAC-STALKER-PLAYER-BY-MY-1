@@ -9,14 +9,8 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-name="Tears of Steel" group-title="Movies",Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
 
-#EXTINF:-1 tvg-name="Sintel" group-title="Movies",Sintel
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Series Sample S01E01 - Big Buck Bunny" group-title="Series",Series Sample S01E01 - Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-name="Series Sample S01E02 - Tears of Steel" group-title="Series",Series Sample S01E02 - Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-
-#EXTINF:-1 tvg-name="BBC R&D Big Buck Bunny" group-title="Movies",BBC R&D Big Buck Bunny
-https://rdmedia.bbc.co.uk/bbb/ondemand/bbb.m3u8
