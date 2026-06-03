@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Apple HLS Sample" group-title="Live",Apple HLS Sample
+#EXTINF:-1 tvg-id="apple.hls.sample" tvg-name="Apple HLS Sample" tvg-logo="" group-title="Live",Apple HLS Sample
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
-#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies",Big Buck Bunny
+#EXTINF:-1 tvg-id="big.buck.bunny" tvg-name="Big Buck Bunny" tvg-logo="" group-title="Movies",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-name="Tears of Steel" group-title="Movies",Tears of Steel
+#EXTINF:-1 tvg-id="tears.of.steel" tvg-name="Tears of Steel" tvg-logo="" group-title="Movies",Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
 
-#EXTINF:-1 tvg-name="Series Sample S01E01 - Big Buck Bunny" group-title="Series",Series Sample S01E01 - Big Buck Bunny
+#EXTINF:-1 tvg-id="series.sample.s01e01" tvg-name="Series Sample S01E01 - Big Buck Bunny" tvg-logo="" group-title="Series",Series Sample S01E01 - Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-name="Series Sample S01E02 - Tears of Steel" group-title="Series",Series Sample S01E02 - Tears of Steel
+#EXTINF:-1 tvg-id="series.sample.s01e02" tvg-name="Series Sample S01E02 - Tears of Steel" tvg-logo="" group-title="Series",Series Sample S01E02 - Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
