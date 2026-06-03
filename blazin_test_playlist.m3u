@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Apple HLS Sample" group-title="Test Streams",Apple HLS Sample
+#EXTINF:-1 tvg-name="Apple HLS Sample" group-title="Live",Apple HLS Sample
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
 #EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies",Big Buck Bunny
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-name="Big Buck Bunny 480p" group-title="Movies",Big Buck Bunny 480p
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-name="Tears of Steel" group-title="Movies",Tears of Steel
@@ -15,17 +12,11 @@ https://test-streams.mux.dev/tos_ismc/main.m3u8
 #EXTINF:-1 tvg-name="Sintel" group-title="Movies",Sintel
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BBC R&D Big Buck Bunny" group-title="Movies",BBC R&D Big Buck Bunny
-https://rdmedia.bbc.co.uk/bbb/ondemand/bbb.m3u8
-
-#EXTINF:-1 tvg-name="Series Sample Episode 1 - Big Buck Bunny" group-title="Series Samples",Series Sample Episode 1 - Big Buck Bunny
+#EXTINF:-1 tvg-name="Series Sample S01E01 - Big Buck Bunny" group-title="Series",Series Sample S01E01 - Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-name="Series Sample Episode 2 - Tears of Steel" group-title="Series Samples",Series Sample Episode 2 - Tears of Steel
+#EXTINF:-1 tvg-name="Series Sample S01E02 - Tears of Steel" group-title="Series",Series Sample S01E02 - Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
 
-#EXTINF:-1 tvg-name="Series Sample Episode 3 - Sintel" group-title="Series Samples",Series Sample Episode 3 - Sintel
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Live Test Stream" group-title="Live Test",Live Test Stream
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-name="BBC R&D Big Buck Bunny" group-title="Movies",BBC R&D Big Buck Bunny
+https://rdmedia.bbc.co.uk/bbb/ondemand/bbb.m3u8
