@@ -1,33 +1,51 @@
-# New App: BLAZIN IPTV Player for Windows
+# New App Available: BLAZIN IPTV Player for Windows
 
-I have released a newer Windows IPTV media player called **BLAZIN IPTV Player**, now available on the Microsoft Store with a free 7-day trial.
+I have released my newer Windows IPTV media player: **BLAZIN IPTV Player**.
 
-BLAZIN IPTV Player is built for users who want one clean Windows app for their own legal IPTV sources, with support for:
+BLAZIN IPTV Player is built after my earlier IPTV player projects and brings multiple IPTV source types together in one clean Windows desktop app.
+
+## Download BLAZIN IPTV Player
+
+**Now available on the Microsoft Store with a free 7-day trial.**
+
+[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T)
+
+## Why try BLAZIN IPTV Player?
+
+BLAZIN IPTV Player is designed for users who want a faster, cleaner, and more complete Windows IPTV media player.
+
+It supports:
 
 * M3U files
 * M3U playlist URLs
-* M3U Plus
-* Xtream Codes
-* STB MAC
-* Stalker Portal
+* M3U Plus playlists
+* Xtream Codes login
+* STB MAC login
+* Stalker Portal login
 * Live TV, Movies, and TV Series sections when supported
 * Built-in VLC internal player
 * External media player support
 * Multi-threaded playlist loading
-
-## Download
-
-[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T)
+* Compact Windows desktop layout
+* Microsoft Store install and updates
 
 ## Learn More
 
 BLAZIN IPTV Player GitHub:
-https://github.com/YOUR-USERNAME/YOUR-BLAZIN-REPO
+[https://github.com/YOUR-USERNAME/YOUR-BLAZIN-REPO](https://github.com/Cyogenus/Blazin-IPTV-Player)
 
 Reddit Community:
 https://www.reddit.com/r/BlazinIPTVPlayer/
 
-> Important: BLAZIN IPTV Player is a media player only. It does not provide channels, playlists, subscriptions, streams, IPTV services, provider accounts, or copyrighted content. Users must provide their own legal IPTV source.
+> **Important:** BLAZIN IPTV Player is a media player only. It does **not** provide channels, playlists, subscriptions, streams, IPTV services, provider accounts, or copyrighted content. Users must provide their own legal IPTV source.
+
+---
+
+# Legacy Project
+
+This repository contains my earlier open-source MAC / Stalker IPTV player project.
+
+For my newer Windows IPTV player, use **BLAZIN IPTV Player** from the Microsoft Store.
 
 
 
