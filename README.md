@@ -33,6 +33,7 @@ It supports:
 
 BLAZIN IPTV Player GitHub:
 https://github.com/Cyogenus/Blazin-IPTV-Player
+
 Reddit Community:
 https://www.reddit.com/r/BlazinIPTVPlayer/
 
@@ -45,6 +46,7 @@ https://www.reddit.com/r/BlazinIPTVPlayer/
 This repository contains my earlier open-source MAC / Stalker IPTV player project.
 
 For my newer Windows IPTV player, use **BLAZIN IPTV Player** from the Microsoft Store.
+
 
 
 
