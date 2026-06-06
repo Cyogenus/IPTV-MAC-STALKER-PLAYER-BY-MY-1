@@ -1,3 +1,37 @@
+# New App: BLAZIN IPTV Player for Windows
+
+I have released a newer Windows IPTV media player called **BLAZIN IPTV Player**, now available on the Microsoft Store with a free 7-day trial.
+
+BLAZIN IPTV Player is built for users who want one clean Windows app for their own legal IPTV sources, with support for:
+
+* M3U files
+* M3U playlist URLs
+* M3U Plus
+* Xtream Codes
+* STB MAC
+* Stalker Portal
+* Live TV, Movies, and TV Series sections when supported
+* Built-in VLC internal player
+* External media player support
+* Multi-threaded playlist loading
+
+## Download
+
+[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T)
+
+## Learn More
+
+BLAZIN IPTV Player GitHub:
+https://github.com/YOUR-USERNAME/YOUR-BLAZIN-REPO
+
+Reddit Community:
+https://www.reddit.com/r/BlazinIPTVPlayer/
+
+> Important: BLAZIN IPTV Player is a media player only. It does not provide channels, playlists, subscriptions, streams, IPTV services, provider accounts, or copyrighted content. Users must provide their own legal IPTV source.
+
+
+
+
 ![GitHub all releases](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1/total?color=blue&label=Downloads&logo=github)
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER/latest/total?color=purple&label=Latest%20Release%20Downloads&logo=github)
 # MAC-Portal IPTV Player by MY-1 for Windows
