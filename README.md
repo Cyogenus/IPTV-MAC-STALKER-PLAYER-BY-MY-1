@@ -13,6 +13,7 @@ BLAZIN IPTV Player is built after my earlier IPTV player projects and brings mul
 <a href="https://apps.microsoft.com/detail/9NQ5S0FFCN8T?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
 	<img src="https://get.microsoft.com/images/en-us%20light.svg" width="200"/>
 </a>
+
 ## Why try BLAZIN IPTV Player?
 
 BLAZIN IPTV Player is designed for users who want a faster, cleaner, and more complete Windows IPTV media player.
