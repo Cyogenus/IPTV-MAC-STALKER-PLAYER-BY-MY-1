@@ -10,7 +10,7 @@ BLAZIN IPTV Player is built after my earlier IPTV player projects and brings mul
 
 [Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=GitHub-Mac)
 
-<a href="[https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=GitHub-Mac]referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+<a href="https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=github_mac?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
 	<img src="https://get.microsoft.com/images/en-us%20light.svg" width="200"/>
 </a>
 
