@@ -46,7 +46,7 @@ For my newer Windows IPTV player, use **BLAZIN IPTV Player** from the Microsoft 
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1/total?color=blue&label=Downloads&logo=github)
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER/latest/total?color=purple&label=Latest%20Release%20Downloads&logo=github)
+[![v4.1R1 Downloads](https://img.shields.io/github/downloads/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1/v4.1R1/total?color=purple&label=v4.1R1%20Downloads&logo=github&cacheSeconds=3600)](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1/releases/tag/v4.1R1)
 # MAC-Portal IPTV Player by MY-1 for Windows
 
 Donations Appreciated: https://ko-fi.com/maiwand
