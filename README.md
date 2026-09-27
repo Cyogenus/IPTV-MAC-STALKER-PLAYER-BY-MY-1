@@ -1,8 +1,8 @@
 # Looking for an Updated STB MAC / Stalker IPTV Player for Windows?
 
-**BLAZIN IPTV Player** is my newer Windows IPTV player for users who want a faster, cleaner, and more complete replacement for this earlier MAC/Stalker project.
+**BLAZIN IPTV Player** is now an **all-in-one Windows IPTV player** that brings the major IPTV login types together in one app.
 
-It supports **STB MAC** and **Stalker Portal** logins with Live TV, Movies, TV Series, EPG, search, favorites, artwork, TV Mode, and built-in playback when the source provides the required data.
+It supports **Xtream Codes**, **Stalker Portal**, **MAG / STB MAC**, and **M3U** sources, so users no longer need a separate player for each login type. BLAZIN can organize Live TV, Movies, TV Series, EPG, search, favorites, artwork, TV Mode, and built-in playback when the source provides the required data.
 
 ## Try BLAZIN IPTV Player
 
@@ -16,7 +16,7 @@ It supports **STB MAC** and **Stalker Portal** logins with Live TV, Movies, TV S
 
 <img width="2545" height="1329" alt="BLAZIN IPTV Player for Windows" src="https://github.com/user-attachments/assets/9201c9d1-13b6-4939-8cf6-7b03c96ae9f4" />
 
-## Why MAC / Stalker Users May Want BLAZIN
+## One Player for Xtream, Stalker, MAG / STB MAC, and M3U
 
 * **STB MAC login** for compatible user-provided portal access
 * **Stalker Portal login** in the same Windows app
