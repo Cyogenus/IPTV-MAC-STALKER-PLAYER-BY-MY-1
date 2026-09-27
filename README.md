@@ -1,45 +1,37 @@
-# New App Available: BLAZIN IPTV Player for Windows
+# Looking for an Updated STB MAC / Stalker IPTV Player for Windows?
 
-I have released my newer Windows IPTV media player: **BLAZIN IPTV Player**.
+**BLAZIN IPTV Player** is my newer Windows IPTV player for users who want a faster, cleaner, and more complete replacement for this earlier MAC/Stalker project.
 
-BLAZIN IPTV Player is built after my earlier IPTV player projects and brings multiple IPTV source types together in one clean Windows desktop app.
+It supports **STB MAC** and **Stalker Portal** logins with Live TV, Movies, TV Series, EPG, search, favorites, artwork, TV Mode, and built-in playback when the source provides the required data.
 
-## Download BLAZIN IPTV Player
+## Try BLAZIN IPTV Player
 
-**Now available on the Microsoft Store with a free 7-day trial.**
+**Available on the Microsoft Store with a free 7-day trial.**
 
-[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=GitHub-Mac)
+[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=github_mac)
 
-<a href="https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=github_mac?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
-	<img src="https://get.microsoft.com/images/en-us%20light.svg" width="200"/>
+<a href="https://apps.microsoft.com/detail/9NQ5S0FFCN8T?referrer=appbadge&mode=full&cid=github_mac" target="_blank" rel="noopener noreferrer">
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
 
-## Why try BLAZIN IPTV Player?
+<img width="2545" height="1329" alt="BLAZIN IPTV Player for Windows" src="https://github.com/user-attachments/assets/9201c9d1-13b6-4939-8cf6-7b03c96ae9f4" />
 
-BLAZIN IPTV Player is designed for users who want a faster, cleaner, and more complete Windows IPTV media player.
+## Why MAC / Stalker Users May Want BLAZIN
 
-It supports:
-
-* M3U files
-* M3U playlist URLs
-* M3U Plus playlists
-* Xtream Codes login
-* STB MAC login
-* Stalker Portal login
-* Live TV, Movies, and TV Series sections when supported
-* Built-in VLC internal player
-* External media player support
-* Multi-threaded playlist loading
-* Compact Windows desktop layout
-* Microsoft Store install and updates
+* **STB MAC login** for compatible user-provided portal access
+* **Stalker Portal login** in the same Windows app
+* **Live TV, Movies, and TV Series** sections when supported by the source
+* **EPG support** and channel information when available
+* **Fast multi-threaded playlist loading** with background processing
+* **Built-in VLC internal player** plus compatible external-player support
+* **Compact desktop interface** and a larger **TV Mode**
+* Also supports **Xtream Codes, M3U files, and M3U playlist URLs**
 
 ## Learn More
 
-BLAZIN IPTV Player GitHub:
-https://github.com/Cyogenus/Blazin-IPTV-Player
-
-Reddit Community:
-https://www.reddit.com/r/BlazinIPTVPlayer/
+* Website: [windowsiptv.com](https://windowsiptv.com)
+* BLAZIN IPTV Player GitHub: [Cyogenus/Blazin-IPTV-Player](https://github.com/Cyogenus/Blazin-IPTV-Player)
+* Reddit Community: [r/BlazinIPTVPlayer](https://www.reddit.com/r/BlazinIPTVPlayer/)
 
 > **Important:** BLAZIN IPTV Player is a media player only. It does **not** provide channels, playlists, subscriptions, streams, IPTV services, provider accounts, or copyrighted content. Users must provide their own legal IPTV source.
 
